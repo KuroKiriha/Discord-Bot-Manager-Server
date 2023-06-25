@@ -15,19 +15,26 @@ This is my discord bot with nextcord modules and run on python
   
       - For more commands will comming soon
 
-# Install
+# Install Mode
++ [Auto Install](#Manual-Install)
++ [Manual Install](#Auto-Install)
+
+## Manual Install
 - Install [python](https://www.python.org/) version : 3.11.* and upper
 - Install [Nextcord Module](https://docs.nextcord.dev/en/stable/)
-- Install all module in requirement.txt
+- Type ```py (MainFileBot.py)``` to run the bot | Need internet / ram / cpu / gpu (maybe) / storege (For keep data and more.)
+- Done you don't need to do anything now
 
-
-### Set Up Bot
+## Auto Install
 This is docs how to auto setup bot
-if you install python is done you need to open [command line (cmd)](https://www.lifewire.com/command-prompt-2625840)
-type this command in [command line (cmd)](https://www.lifewire.com/command-prompt-2625840) : ```pip install -r requirement.txt```
+if you install python is done you need to open [command line (cmd)](https://www.lifewire.com/command-prompt-2625840) and then you need to install all module in requirement.txt by type some command
+- type this command in [command line (cmd)](https://www.lifewire.com/command-prompt-2625840) : ```pip install -r requirement.txt```
+- Type ```py (MainFileBot.py)``` to run the bot | Need internet / ram / cpu / gpu (maybe) / storege (For keep data and more.)
+- Done you don't need to do anything now
 
 # Agreement
 - Within this source code we are not responsible for any errors that may occur on your computer or the bot itself.
+
 # License
 + Do not distribute commercially.
 + If redistributed, it must include the source code.
