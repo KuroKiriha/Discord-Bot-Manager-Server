@@ -1,3 +1,7 @@
+# Note
+This project you cannot see bec this project is not done now. 
+and it will comming soon.
+
 # Discord-Bot-Manager-Server
 This is my discord bot with nextcord modules and run on python
 * Function Discord Bot
@@ -16,8 +20,8 @@ This is my discord bot with nextcord modules and run on python
       - For more commands will comming soon
 
 # Install Mode
-+ [Auto Install](#Manual-Install)
-+ [Manual Install](#Auto-Install)
++ [Manual Install](#Manual-Install)
++ [Auto Install](#Auto-Install)
 
 ## Manual Install
 - Install [python](https://www.python.org/) version : 3.11.* and upper
