@@ -1,0 +1,1 @@
+bad_word_list = ['fack, fuck, kuy']
