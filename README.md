@@ -1,5 +1,5 @@
 # Note
-This project you cannot see bec this project is not done now. 
+This project is not fully work at all becuse for now this project is not done yet
 and it will comming soon.
 
 # Discord-Bot-Manager-Server
